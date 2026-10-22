@@ -1,8 +1,8 @@
 {
-  "versionCode": 4,
-  "versionName": "1.0.2",
-  "apkUrl": "https://github.com/davidturchak/Telega-Watch-Releases/releases/download/v1.0.2/TelegaWatch-1.0.2.apk",
-  "sha256": "a89ae878dd98849e909c1729e208559811bad6816bfa37ea4c1cce13145a8e66",
-  "sizeBytes": 20184540,
-  "notes": "Compact movie cards and a new Telegram-style icon"
+  "versionCode": 5,
+  "versionName": "1.0.3",
+  "apkUrl": "https://github.com/davidturchak/Telega-Watch-Releases/releases/download/v1.0.3/TelegaWatch-1.0.3.apk",
+  "sha256": "082d4a7fe87bfaa071ac218d15e56f3cb3ef4df7375b715a5976064a84e19786",
+  "sizeBytes": 20324135,
+  "notes": "Install-base telemetry heartbeat"
 }
