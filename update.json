@@ -1,8 +1,8 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.0",
-  "apkUrl": "https://github.com/davidturchak/Telega-Watch-Releases/releases/download/v1.0.0/TelegaWatch-1.0.0.apk",
-  "sha256": "21b541eae754edf1a9850b2a43f7614e8baf67ae15a34f30ad46d439c6ec87ee",
-  "sizeBytes": 20096261,
-  "notes": "First release: Saved Messages as a source, self-update from the public releases repo"
+  "versionCode": 3,
+  "versionName": "1.0.1",
+  "apkUrl": "https://github.com/davidturchak/Telega-Watch-Releases/releases/download/v1.0.1/TelegaWatch-1.0.1.apk",
+  "sha256": "ea2bf91faf6ae30e504c1f145accf9f415d765a4b88616077a1968228f6e6de4",
+  "sizeBytes": 20128110,
+  "notes": "App lock: optional PIN on open and resume, with grace and idle timeouts"
 }
