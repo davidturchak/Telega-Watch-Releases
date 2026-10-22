@@ -1,8 +1,8 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.1",
-  "apkUrl": "https://github.com/davidturchak/Telega-Watch-Releases/releases/download/v1.0.1/TelegaWatch-1.0.1.apk",
-  "sha256": "ea2bf91faf6ae30e504c1f145accf9f415d765a4b88616077a1968228f6e6de4",
-  "sizeBytes": 20128110,
-  "notes": "App lock: optional PIN on open and resume, with grace and idle timeouts"
+  "versionCode": 4,
+  "versionName": "1.0.2",
+  "apkUrl": "https://github.com/davidturchak/Telega-Watch-Releases/releases/download/v1.0.2/TelegaWatch-1.0.2.apk",
+  "sha256": "a89ae878dd98849e909c1729e208559811bad6816bfa37ea4c1cce13145a8e66",
+  "sizeBytes": 20184540,
+  "notes": "Compact movie cards and a new Telegram-style icon"
 }
