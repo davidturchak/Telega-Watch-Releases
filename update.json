@@ -1,8 +1,47 @@
 {
-  "versionCode": 5,
-  "versionName": "1.0.3",
-  "apkUrl": "https://github.com/davidturchak/Telega-Watch-Releases/releases/download/v1.0.3/TelegaWatch-1.0.3.apk",
-  "sha256": "082d4a7fe87bfaa071ac218d15e56f3cb3ef4df7375b715a5976064a84e19786",
-  "sizeBytes": 20324135,
-  "notes": "Install-base telemetry heartbeat"
+  "versionCode": 6,
+  "versionName": "1.0.4",
+  "apkUrl": "https://github.com/davidturchak/Telega-Watch-Releases/releases/download/v1.0.4/TelegaWatch-1.0.4.apk",
+  "sha256": "f1389c6f4fa6bc45d20a9b695271398fbc52c839c686ec14fd0648731d5346e8",
+  "sizeBytes": 20328190,
+  "notes": "The update prompt now lists everything that changed since your version, not just the newest release.",
+  "changelog": [
+    {
+      "versionCode": 6,
+      "versionName": "1.0.4",
+      "notes": [
+        "The update prompt now lists everything that changed since your version, not just the newest release."
+      ]
+    },
+    {
+      "versionCode": 5,
+      "versionName": "1.0.3",
+      "notes": [
+        "Telega Watch now sends a small, silent heartbeat to your own statistics server: the app version, the TV model and Android version, and the Telegram account it is logged in to. It never includes your phone number or what you watch. After you log out, the account is no longer sent."
+      ]
+    },
+    {
+      "versionCode": 4,
+      "versionName": "1.0.2",
+      "notes": [
+        "Movie cards are more compact: the title takes one line, and a long title scrolls when the card is selected. The quality, year, episode and size share one line underneath.",
+        "A new app icon: the Telegram logo with a small camera."
+      ]
+    },
+    {
+      "versionCode": 3,
+      "versionName": "1.0.1",
+      "notes": [
+        "App lock: set a code in Settings → App lock, and Telega Watch asks for it when it opens or comes back. You choose how long you can be away before it asks again. It can also lock after a period without a remote press; a playing movie never counts. If you forget the code, \"Forgot code? Log out\" resets it."
+      ]
+    },
+    {
+      "versionCode": 2,
+      "versionName": "1.0.0",
+      "notes": [
+        "Saved Messages can be chosen as a source, so videos you saved to yourself show up like any channel.",
+        "Updates now arrive on the TV itself: Telega Watch offers each new version when it starts, or from Settings → Check for updates."
+      ]
+    }
+  ]
 }
