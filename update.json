@@ -1,11 +1,18 @@
 {
-  "versionCode": 6,
-  "versionName": "1.0.4",
-  "apkUrl": "https://github.com/davidturchak/Telega-Watch-Releases/releases/download/v1.0.4/TelegaWatch-1.0.4.apk",
-  "sha256": "f1389c6f4fa6bc45d20a9b695271398fbc52c839c686ec14fd0648731d5346e8",
-  "sizeBytes": 20328190,
-  "notes": "The update prompt now lists everything that changed since your version, not just the newest release.",
+  "versionCode": 7,
+  "versionName": "1.0.5",
+  "apkUrl": "https://github.com/davidturchak/Telega-Watch-Releases/releases/download/v1.0.5/TelegaWatch-1.0.5.apk",
+  "sha256": "416989a88687973484353f90e323a8e6b51ff5f6a873693ffa1ec580787b5234",
+  "sizeBytes": 20330525,
+  "notes": "The home screen title has a camera icon, and Edit sources and Settings are now icon buttons (a pencil and a gear).",
   "changelog": [
+    {
+      "versionCode": 7,
+      "versionName": "1.0.5",
+      "notes": [
+        "The home screen title has a camera icon, and Edit sources and Settings are now icon buttons (a pencil and a gear)."
+      ]
+    },
     {
       "versionCode": 6,
       "versionName": "1.0.4",
