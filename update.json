@@ -1,11 +1,19 @@
 {
-  "versionCode": 7,
-  "versionName": "1.0.5",
-  "apkUrl": "https://github.com/davidturchak/Telega-Watch-Releases/releases/download/v1.0.5/TelegaWatch-1.0.5.apk",
-  "sha256": "416989a88687973484353f90e323a8e6b51ff5f6a873693ffa1ec580787b5234",
-  "sizeBytes": 20330525,
-  "notes": "The home screen title has a camera icon, and Edit sources and Settings are now icon buttons (a pencil and a gear).",
+  "versionCode": 8,
+  "versionName": "1.0.6",
+  "apkUrl": "https://github.com/davidturchak/Telega-Watch-Releases/releases/download/v1.0.6/TelegaWatch-1.0.6.apk",
+  "sha256": "761e3083f6533791c7f9fb7469f517a14c403b35c10045a25708d8cd0ff47042",
+  "sizeBytes": 20336912,
+  "notes": "While a movie plays, P+ and P− on the remote play the next or previous movie of the same channel, without going back to the list. The new title shows at the bottom. New setting, **Resume a movie**: when you open a movie you stopped part-way, the app can ask (as before), resume straight away, or always start from the beginning.",
   "changelog": [
+    {
+      "versionCode": 8,
+      "versionName": "1.0.6",
+      "notes": [
+        "While a movie plays, P+ and P− on the remote play the next or previous movie of the same channel, without going back to the list. The new title shows at the bottom.",
+        "New setting, **Resume a movie**: when you open a movie you stopped part-way, the app can ask (as before), resume straight away, or always start from the beginning."
+      ]
+    },
     {
       "versionCode": 7,
       "versionName": "1.0.5",
