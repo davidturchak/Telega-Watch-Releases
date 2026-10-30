@@ -1,11 +1,20 @@
 {
-  "versionCode": 8,
-  "versionName": "1.0.6",
-  "apkUrl": "https://github.com/davidturchak/Telega-Watch-Releases/releases/download/v1.0.6/TelegaWatch-1.0.6.apk",
-  "sha256": "761e3083f6533791c7f9fb7469f517a14c403b35c10045a25708d8cd0ff47042",
-  "sizeBytes": 20336912,
-  "notes": "While a movie plays, P+ and P− on the remote play the next or previous movie of the same channel, without going back to the list. The new title shows at the bottom. New setting, **Resume a movie**: when you open a movie you stopped part-way, the app can ask (as before), resume straight away, or always start from the beginning.",
+  "versionCode": 9,
+  "versionName": "1.0.7",
+  "apkUrl": "https://github.com/davidturchak/Telega-Watch-Releases/releases/download/v1.0.7/TelegaWatch-1.0.7.apk",
+  "sha256": "a6cb53ff7d8a7c01fa2db5518f903e2831b4d5f244627c58fde9b44dbd8a309e",
+  "sizeBytes": 20338313,
+  "notes": "No more OK after typing the app lock code: it is checked as soon as the last digit is in, and a wrong code clears so you can start again. A code set on an older version still needs OK once, then never again. The same goes for the Telegram login code: the last digit sends it, and a wrong code is cleared. Fixed movies that stopped with \"This video can't be played\" every time, after the cache had removed their half-downloaded copy. They now download again and play.",
   "changelog": [
+    {
+      "versionCode": 9,
+      "versionName": "1.0.7",
+      "notes": [
+        "No more OK after typing the app lock code: it is checked as soon as the last digit is in, and a wrong code clears so you can start again. A code set on an older version still needs OK once, then never again.",
+        "The same goes for the Telegram login code: the last digit sends it, and a wrong code is cleared.",
+        "Fixed movies that stopped with \"This video can't be played\" every time, after the cache had removed their half-downloaded copy. They now download again and play."
+      ]
+    },
     {
       "versionCode": 8,
       "versionName": "1.0.6",
