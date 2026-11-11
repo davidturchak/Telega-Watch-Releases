@@ -1,11 +1,19 @@
 {
-  "versionCode": 9,
-  "versionName": "1.0.7",
-  "apkUrl": "https://github.com/davidturchak/Telega-Watch-Releases/releases/download/v1.0.7/TelegaWatch-1.0.7.apk",
-  "sha256": "a6cb53ff7d8a7c01fa2db5518f903e2831b4d5f244627c58fde9b44dbd8a309e",
-  "sizeBytes": 20338313,
-  "notes": "No more OK after typing the app lock code: it is checked as soon as the last digit is in, and a wrong code clears so you can start again. A code set on an older version still needs OK once, then never again. The same goes for the Telegram login code: the last digit sends it, and a wrong code is cleared. Fixed movies that stopped with \"This video can't be played\" every time, after the cache had removed their half-downloaded copy. They now download again and play.",
+  "versionCode": 10,
+  "versionName": "1.0.8",
+  "apkUrl": "https://github.com/davidturchak/Telega-Watch-Releases/releases/download/v1.0.8/TelegaWatch-1.0.8.apk",
+  "sha256": "ae960af740ec0477b4ad91bb32e4088d13ac4cfb35b892e5e478cadeb8fda8fd",
+  "sizeBytes": 20361358,
+  "notes": "Telega Watch now runs on Android phones too, from the same download. Everything works by touch, in portrait or landscape; on a phone you log in with your phone number (a QR code is still there if you want it). On a phone, movies play full-screen in landscape. Tap to show the controls, drag the bar to seek, double-tap the left or right side to jump 10 seconds, and use the buttons for the previous or next movie and for audio and subtitles.",
   "changelog": [
+    {
+      "versionCode": 10,
+      "versionName": "1.0.8",
+      "notes": [
+        "Telega Watch now runs on Android phones too, from the same download. Everything works by touch, in portrait or landscape; on a phone you log in with your phone number (a QR code is still there if you want it).",
+        "On a phone, movies play full-screen in landscape. Tap to show the controls, drag the bar to seek, double-tap the left or right side to jump 10 seconds, and use the buttons for the previous or next movie and for audio and subtitles."
+      ]
+    },
     {
       "versionCode": 9,
       "versionName": "1.0.7",
