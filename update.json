@@ -1,11 +1,18 @@
 {
-  "versionCode": 10,
-  "versionName": "1.0.8",
-  "apkUrl": "https://github.com/davidturchak/Telega-Watch-Releases/releases/download/v1.0.8/TelegaWatch-1.0.8.apk",
-  "sha256": "ae960af740ec0477b4ad91bb32e4088d13ac4cfb35b892e5e478cadeb8fda8fd",
-  "sizeBytes": 20361358,
-  "notes": "Telega Watch now runs on Android phones too, from the same download. Everything works by touch, in portrait or landscape; on a phone you log in with your phone number (a QR code is still there if you want it). On a phone, movies play full-screen in landscape. Tap to show the controls, drag the bar to seek, double-tap the left or right side to jump 10 seconds, and use the buttons for the previous or next movie and for audio and subtitles.",
+  "versionCode": 11,
+  "versionName": "1.0.9",
+  "apkUrl": "https://github.com/davidturchak/Telega-Watch-Releases/releases/download/v1.0.9/TelegaWatch-1.0.9.apk",
+  "sha256": "4c1df2d24388398c72e0cd7424accf9fcf87b87f030afa1f9d98ce7ae5251038",
+  "sizeBytes": 20370541,
+  "notes": "Forward a movie to your own Saved Messages to keep it. On the TV, hold OK on a movie card (or press Menu); on a phone, press and hold the card. While a movie plays, it is also in the audio and subtitles menu. Channels that don't allow forwarding say so.",
   "changelog": [
+    {
+      "versionCode": 11,
+      "versionName": "1.0.9",
+      "notes": [
+        "Forward a movie to your own Saved Messages to keep it. On the TV, hold OK on a movie card (or press Menu); on a phone, press and hold the card. While a movie plays, it is also in the audio and subtitles menu. Channels that don't allow forwarding say so."
+      ]
+    },
     {
       "versionCode": 10,
       "versionName": "1.0.8",
