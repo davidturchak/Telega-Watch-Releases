@@ -1,11 +1,18 @@
 {
-  "versionCode": 12,
-  "versionName": "1.0.10",
-  "apkUrl": "https://github.com/davidturchak/Telega-Watch-Releases/releases/download/v1.0.10/TelegaWatch-1.0.10.apk",
-  "sha256": "4f8f8b2ac7bcb378b61e567885ae955bd63bd2e5b8240620d01a22741135a134",
-  "sizeBytes": 20376589,
-  "notes": "You can now remove a movie from your Saved Messages too. Open Saved Messages as a source, hold OK on the movie (or press Menu; press and hold on a phone), then choose Remove and press again to confirm. While it plays, the same is in the audio and subtitles menu.",
+  "versionCode": 13,
+  "versionName": "1.0.11",
+  "apkUrl": "https://github.com/davidturchak/Telega-Watch-Releases/releases/download/v1.0.11/TelegaWatch-1.0.11.apk",
+  "sha256": "035880f3836222c7bb6e3c7b4ef83a3cade6be18fc967c7b4d7df013cf8171f2",
+  "sizeBytes": 20379865,
+  "notes": "On a phone, swipe left or right during a movie to play the next or previous one, and swipe up or down to close it.",
   "changelog": [
+    {
+      "versionCode": 13,
+      "versionName": "1.0.11",
+      "notes": [
+        "On a phone, swipe left or right during a movie to play the next or previous one, and swipe up or down to close it."
+      ]
+    },
     {
       "versionCode": 12,
       "versionName": "1.0.10",
