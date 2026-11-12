@@ -1,11 +1,20 @@
 {
-  "versionCode": 13,
-  "versionName": "1.0.11",
-  "apkUrl": "https://github.com/davidturchak/Telega-Watch-Releases/releases/download/v1.0.11/TelegaWatch-1.0.11.apk",
-  "sha256": "035880f3836222c7bb6e3c7b4ef83a3cade6be18fc967c7b4d7df013cf8171f2",
-  "sizeBytes": 20379865,
-  "notes": "On a phone, swipe left or right during a movie to play the next or previous one, and swipe up or down to close it.",
+  "versionCode": 14,
+  "versionName": "1.0.12",
+  "apkUrl": "https://github.com/davidturchak/Telega-Watch-Releases/releases/download/v1.0.12/TelegaWatch-1.0.12.apk",
+  "sha256": "84a3e588542bf48d202e0531ae89d0a53c0c3933011e9a2af334c6ef54db4702",
+  "sizeBytes": 20381801,
+  "notes": "On the TV, holding OK on a movie no longer forwards it (or arms Remove) the moment you let go: the menu waits for a new press, so Cancel works. A movie you forward to Saved Messages shows up there as soon as you open it, instead of a few minutes later. When a source finds newer movies as it opens, it now starts on the newest one at the top, instead of the one that was first before.",
   "changelog": [
+    {
+      "versionCode": 14,
+      "versionName": "1.0.12",
+      "notes": [
+        "On the TV, holding OK on a movie no longer forwards it (or arms Remove) the moment you let go: the menu waits for a new press, so Cancel works.",
+        "A movie you forward to Saved Messages shows up there as soon as you open it, instead of a few minutes later.",
+        "When a source finds newer movies as it opens, it now starts on the newest one at the top, instead of the one that was first before."
+      ]
+    },
     {
       "versionCode": 13,
       "versionName": "1.0.11",
